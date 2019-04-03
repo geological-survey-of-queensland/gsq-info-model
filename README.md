@@ -17,7 +17,7 @@ While this Information Model is beling developed, see the specialised models tha
 ## Overarching model
 This GSQ model uses a pair of top-level *perspectives* to describe all GSQ data: *dataset* & *feature*. Major classes of item and relationships between them within the perspectives are given in Figure 1.
 
-![](fig-perspectives.png)  
+![](perspectives.png)  
 **Figure 1**: Major classes and relationships within the A. Dataset and B. Feature perspectives of this model. The Dataset perspective is essentially the main classes of the [revised Data Catalogue Vocabulary (DCAT) ontology](https://www.w3.org/TR/vocab-dcat-2/) and the Feature perspective is essentially the main classes of the [revised Sensor, Observation, Sample, and Actuator (SOSA) segment of the SSN ontology](https://www.w3.org/TR/vocab-ssn/).
 
 
