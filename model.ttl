@@ -1,0 +1,25 @@
+@prefix : <http://linked.data.gov.au/def/gsq/dataset#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix prof: <http://www.w3.org/ns/dx/prof/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://linked.data.gov.au/def/gsq/dataset> .
+
+<http://linked.data.gov.au/def/gsq> rdf:type owl:Ontology ;
+                                             owl:versionIRI <http://linked.data.gov.au/def/gsq> ;
+                                             owl:imports <http://www.w3.org/2006/time#2016> ,
+                                                         <http://www.w3.org/ns/dcat> ,
+                                                         <http://www.w3.org/ns/sosa/> ,
+                                                         <http://www.w3.org/ns/ssn/ext> ;
+                                             <http://purl.org/dc/elements/1.1/creator> "Nicholas J. Car" ;
+                                             <http://purl.org/dc/elements/1.1/publisher> "Geological Survey of Queensland" ;
+                                             <http://purl.org/dc/terms/created> "2019-04-15"^^xsd:date ;
+                                             <http://purl.org/dc/terms/creator> <http://orcid.org/0000-0002-8742-7730> ;
+                                             <http://purl.org/dc/terms/modified> "2019-04-15"^^xsd:date ;
+                                             <http://purl.org/dc/terms/publisher> <http://catalogue.linked.data.gov.au/org/gsq> ;
+                                             rdfs:comment "This ontology is the Geological Survey of Queensland (GSQ)'s overarching information model."@en ;
+                                             rdfs:label "GSQ Dataset Profile" ;
+                                             owl:versionInfo "See the GitHub repo https://github.com/geological-survey-of-queensland/gsq-info-model for versioning"@en .
