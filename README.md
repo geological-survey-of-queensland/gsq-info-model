@@ -1,4 +1,6 @@
 # GSQ's Information Model
+> NOTE: Please read the [wiki](https://github.com/geological-survey-of-queensland/gsq-info-model/wiki) for background information.
+
 This repository will contain the developing overarching information model for the Geological Survey of Queensland (GSQ)'s data.
 
 This repository currently contains no substantive information.
