@@ -52,6 +52,6 @@ This information models draws on previous work by this author to create overarch
 
 *author*:  
 **Nicholas Car**  
-*Senior Experimental Scientist*  
-CSIRO Land & Water, Environmental Informatics Group  
-<nicholas.car@csiro.au>
+*Data Systems Architect*  
+SURROUND Australia Pty Ltd  
+<nicholas.car@surroundaustralia.com>  
