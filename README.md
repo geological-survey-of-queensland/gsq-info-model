@@ -34,9 +34,9 @@ This information models draws on previous work by this author to create overarch
   * *to be linked to as not yet public*
   * this model overviews multiple component dataset models and joining Linkset models creating a 'spine' of australian national spatial data
   * component models for LocI include:
-    * Australian Statistical Geography Standard (ASGS) ontology - <http://linked.data.gov.au/def/asgs>
-    * Australian Hydrological Geospatial Fabric (Geofabric) ontology - <http://linked.data.gov.au/def/geofabric>
-    * Geocoded National Address File (G-NAF) ontology - <http://linked.data.gov.au/def/gnaf>
+    * Australian Statistical Geography Standard (ASGS) ontology - <https://linked.data.gov.au/def/asgs>
+    * Australian Hydrological Geospatial Fabric (Geofabric) ontology - <https://linked.data.gov.au/def/geofabric>
+    * Geocoded National Address File (G-NAF) ontology - <https://linked.data.gov.au/def/gnaf>
 * **Longitudinal Spine of Government Functions** overarching information model
   * *to be linked to as not yet public*
   * this model overviews multiple component dataset models and joining Linkset models creating a 'spine' of structural and functional (Federal) government datasets to which many other datasets can be associated
